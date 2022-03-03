@@ -1,0 +1,3 @@
+'Free Code camp',' https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ','cs','It is best for coding beginners, It has a lot of languages you can learn with application'
+'Kunal Kushwava' , 'https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw','cs','Good for DSA and Algo and for those who are into open source')
+'Tech with tim','https://www.youtube.com/c/TechWithTim','cs','It is best for coding beginners, It has a lot of languages you can learn with application'
