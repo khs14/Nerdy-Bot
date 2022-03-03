@@ -1,0 +1,10 @@
+Abate,lessen,the storm suddenly abated,m,a
+Abhor,hatred,he abhorred sexism in every form,m,,a
+Accost,confront,reporters accosted him in the street,m,a
+Acumen,insightfulness,she hides a shrewd business acumen,m,a
+Adept,skillful,she is adept at cutting through red tape,m,a
+Amenable,controllable,
+Amiable,friendly,
+Anthropology,study of human beings,
+Antipathy,dislike,
+Arcane,mysterious / known only by a few,
