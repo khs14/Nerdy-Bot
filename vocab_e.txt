@@ -1,0 +1,15 @@
+Adamant,not yielding,he is adamant that he is not going to resign,e,a
+Allocate,assign,in past years we did not allocate enough funds to infrastructure maintenance,e,a
+Amicable,friendly,an amicable settlement of the dispute,e,a
+Apathetic,acking interest,an apathetic electorate,e,a
+Apt,appropriate,the theme could not be more apt,e,a
+Aspire,strive for,we never thought that we might aspire to those heights,e,a
+Auspicious,favorable,it was not the most auspicious moment to hold an election,e,a
+Autocrat,dictator,like many autocrats, Franco found the exercise of absolute power addictive,e,a
+Bombastic,pompous,bombastic rhetoric,e,b
+Callous,insensitive,his callous comments about the murder made me shiver,e,c
+Concur,agree,the authors concurred with the majority,e,c
+Contempt,disdainful,Pam stared at the girl with total contempt,e,c
+Cosmopolitan,sophisticated,immigration transformed the city into a cosmopolitan metropolis,e,c
+Debacle,failure,the only man to reach double figures in the second-innings debacle,e,d
+Debunk,prove-wrong,she debunks all the usual rubbish about acting,e,d
